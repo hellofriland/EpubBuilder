@@ -1,0 +1,15 @@
+/home/friland/Projects/EpubBuilder/bin/Debug/net7.0/EpubBuilder
+/home/friland/Projects/EpubBuilder/bin/Debug/net7.0/EpubBuilder.deps.json
+/home/friland/Projects/EpubBuilder/bin/Debug/net7.0/EpubBuilder.runtimeconfig.json
+/home/friland/Projects/EpubBuilder/bin/Debug/net7.0/EpubBuilder.dll
+/home/friland/Projects/EpubBuilder/bin/Debug/net7.0/EpubBuilder.pdb
+/home/friland/Projects/EpubBuilder/obj/Debug/net7.0/EpubBuilder.csproj.AssemblyReference.cache
+/home/friland/Projects/EpubBuilder/obj/Debug/net7.0/EpubBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/home/friland/Projects/EpubBuilder/obj/Debug/net7.0/EpubBuilder.AssemblyInfoInputs.cache
+/home/friland/Projects/EpubBuilder/obj/Debug/net7.0/EpubBuilder.AssemblyInfo.cs
+/home/friland/Projects/EpubBuilder/obj/Debug/net7.0/EpubBuilder.csproj.CoreCompileInputs.cache
+/home/friland/Projects/EpubBuilder/obj/Debug/net7.0/EpubBuilder.dll
+/home/friland/Projects/EpubBuilder/obj/Debug/net7.0/refint/EpubBuilder.dll
+/home/friland/Projects/EpubBuilder/obj/Debug/net7.0/EpubBuilder.pdb
+/home/friland/Projects/EpubBuilder/obj/Debug/net7.0/EpubBuilder.genruntimeconfig.cache
+/home/friland/Projects/EpubBuilder/obj/Debug/net7.0/ref/EpubBuilder.dll
